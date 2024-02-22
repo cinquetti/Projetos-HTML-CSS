@@ -1,0 +1,45 @@
+.ConfigBody {
+    background: #d5d58c url('imagens/fundo1.png');
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal {
+    width: 900px;
+}
+
+#fundoBio{
+    background-color: #e8e8d9;
+    padding: 10px;
+}
+
+.fundo {
+    background-image: url('imagens/capa.png') fixed;
+}
+
+.corbio{
+    color: #d5d570;
+    font-size: 1.2em;
+}
+
+.moldura{
+    background-color: #b4b483;
+    border: 10px #d5d570 double;
+}
+
+#menu {
+    color: #9e98d0;
+    background-color: #b4b483;
+    padding: 15px;
+
+}
+
+a {
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.centralizar{
+    text-align: center;
+}
